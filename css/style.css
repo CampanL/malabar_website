@@ -5,6 +5,11 @@
 }
 @font-face
 {
+   font-family: "Bubbleboddy_Light";
+   src: url(../assets/fonts/Bubbleboddy_Light.ttf);
+}
+@font-face
+{
    font-family: "Double_Bubble";
    src: url(../assets/fonts/Double_Bubble.otf);
 }
@@ -19,10 +24,8 @@
    src: url(../assets/fonts/Bubblegum.ttf);
 }
 body{
-	font-family: "Bubblegum", Arial, sans-serif;
 	background-color: #fddd00;
 	font-style: italic;
-	/* background-color: #e7cc16; */
 	color: #fff;
 }
 nav{
@@ -40,7 +43,7 @@ ul{
 a{
 	text-decoration: none;
 	color: #fd78ba;
-	/* background-color: #ed9ab6; */
+	background-color: #ed9ab6;
 }
 a:hover{
 	color: #fd68ba;
@@ -174,5 +177,4 @@ a:hover{
 	background-color:#d0a525;
 	color:#604e18;
 	text-shadow:1px 1px 0 #d8b54b;
->>>>>>> a7110b05d4730ff94471eb63f85180a494f7b2d5
 }

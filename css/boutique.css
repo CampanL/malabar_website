@@ -1,4 +1,34 @@
-body
+img
 {
-	font-family: Double_Bubble;
+	max-width: 250px;
+}
+.articles
+{
+	width: 70%;
+	margin-left: 15%;
+	text-align: center;
+	font-size: 1.5em;
+}
+.articles p
+{
+	font-family: Bubbleboddy_Light;
+	font-weight: bold;
+}
+.articles img
+{
+	margin: 50px;
+}
+select
+{
+	color: #000;
+}
+button
+{
+	border-width: 3px;
+	border-color: #fff;
+	padding: 5px;
+    border-radius: 15%;
+    color: #ffffff ;
+    background-color:#efa1c9;
+    font-size: .5em;
 }
