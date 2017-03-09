@@ -1,4 +1,15 @@
-body
+@font-face
 {
-	
+	font-family: Bubbleboddy;
+	src: url(../asset/fonts/Bubbleboddy.ttf);
+}
+@font-face
+{
+	font-family: Double_Bubble; 
+	src: url(../asset/fonts/Double_Bubble.otf);
+}
+@font-face
+{
+	font-family: SnackerComic;
+	src: url( ../asset/fonts/SnackerComic.ttf);
 }
