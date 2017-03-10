@@ -1,0 +1,41 @@
+body
+{
+	font-family: Bubbleboddy;
+	background-image: url(../asset/images/background-prehome.jpg); 
+	background-size: cover;
+}
+
+.container
+{
+	margin-top: 36%;
+}
+.textButton
+{
+	text-align:center;
+	font-style: italic;
+	font-size:25px; 
+	color:#efa1c9 ;
+	text-transform: uppercase;
+	width: 50%;
+	margin-left: 25%;
+}
+.aventure
+{	text-align:center;
+	font-family: BubbleBodyLight; 
+	font-style: italic; 
+	width:10%;
+	font-size:15px;
+	padding: 15px;
+	border-radius: 5%;
+	border:solid 7px;
+	color: #ffffff;
+	background-color:#efa1c9;
+	margin-left:45%;	
+	text-decoration: none;	
+}
+
+.aventure:hover{
+	color:#efa1c9;
+	background-color:#ffffff; 
+	border-color:#efa1c9;
+}
